@@ -4,7 +4,7 @@ import "./index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 
-console.log("Hello React");
+console.log("Hello React 2");
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
